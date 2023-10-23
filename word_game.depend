@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1691240856 source:a:\telyu\c++\word_game\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<chrono>
+	<vector>
+	<thread>
+
